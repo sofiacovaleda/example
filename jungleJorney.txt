@@ -8,6 +8,8 @@ List of elements we need:
 3. solar camera
 4. magazine
 5. water
+6. Matches
+
 
 
 
