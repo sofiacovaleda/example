@@ -6,5 +6,7 @@ List of elements we need:
 1. A tent
 2. Fish
 3. solar camera
+4. magazine
+
 
 
